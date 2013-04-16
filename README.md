@@ -1,5 +1,6 @@
-JTAttributedLabel
-=================
+JTAttributedLabel for MonoTouch
+===============================
+This is the MonoTouch version of [mystcolor JTAttributedLabel](https://github.com/mystcolor/JTAttributedLabel)
 
 Ported back NSAttributeString in iOS 5 for you to use **Attributed UILabel in Interface Builder.** (experimental)
 
