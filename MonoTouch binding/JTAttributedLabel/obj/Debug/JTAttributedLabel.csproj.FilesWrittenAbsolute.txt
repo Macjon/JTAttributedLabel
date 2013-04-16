@@ -1,0 +1,4 @@
+/Users/Jonah/Projects/JTAttributedLabel/JTAttributedLabel/bin/Debug/JTAttributedLabel.dll.mdb
+/Users/Jonah/Projects/JTAttributedLabel/JTAttributedLabel/bin/Debug/JTAttributedLabel.dll
+/Users/Jonah/Projects/JTAttributedLabel/JTAttributedLabel/obj/Debug/JTAttributedLabel.dll
+/Users/Jonah/Projects/JTAttributedLabel/JTAttributedLabel/obj/Debug/JTAttributedLabel.dll.mdb

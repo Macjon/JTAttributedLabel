@@ -1,0 +1,6 @@
+obj/Release/ios/ObjCRuntime/Messaging.g.cs
+obj/Release/ios/JTAttributedLabel/JTAttributedLabel.g.cs
+obj/Release/ios/JTAttributedLabel/JTTextLayer.g.cs
+obj/Release/ios/JTAttributedLabel/JTAutoLabel.g.cs
+obj/Release/ios/JTAttributedLabel/JTParagraphStyle.g.cs
+obj/Release/ios/JTAttributedLabel/JTMutableParagraphStyle.g.cs

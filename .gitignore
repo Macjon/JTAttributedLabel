@@ -7,3 +7,9 @@ build
 *.xcodeproj/xcuserdata/*
 lib_output
 DerivedData
+
+#Mono
+*.userprefs
+*.pidb
+bin
+obj
